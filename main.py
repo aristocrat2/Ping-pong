@@ -1,5 +1,5 @@
 import pygame
-
+#大山豆根豆腐干
 win = pygame.display.set_mode((700, 500))
 
 clock = pygame.time.Clock()
